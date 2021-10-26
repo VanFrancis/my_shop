@@ -1,10 +1,10 @@
-namespace product.models
+namespace products.models
 {
     public class product
     {
-        public int Id {get; set;}
+        public int id {get; set;}
         public string description {get; set;}
-        public float price {get; set;}
-        int stock_quantity {get; set;}
+        public decimal price {get; set;}
+        public int stock_quantity {get; set;}
     }
 }

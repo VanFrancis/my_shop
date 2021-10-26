@@ -1,8 +1,8 @@
-namespace client.models
+namespace clients.models
 {
     public class client
     {
-        int id_client {get; set;}
-        string name {get; set;}
+        public int id_client {get; set;}
+        public string name {get; set;}
     }
 }
