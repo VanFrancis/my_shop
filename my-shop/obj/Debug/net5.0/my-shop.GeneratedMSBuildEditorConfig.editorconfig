@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = my_shop
-build_property.ProjectDir = C:\projects\api myshop\my_shop\my-shop\
+build_property.ProjectDir = c:\projects\api myshop\my_shop\my-shop\

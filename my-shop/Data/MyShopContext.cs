@@ -2,11 +2,11 @@ using clients.model;
 using Microsoft.EntityFrameworkCore;
 using products.model;
 
-namespace products.data
+namespace myshop.data
 {
-    public class ProductsContext : DbContext 
+    public class MyShopContext : DbContext 
     {
-        public ProductsContext (DbContextOptions<ProductsContext> opt) : base(opt)
+        public MyShopContext (DbContextOptions<MyShopContext> options) : base(options)
         {
 
         }
